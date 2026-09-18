@@ -1,7 +1,7 @@
 # ------------------------------------------------------
-#        Name: (put your name here)
-#       Peers: (add any collaborators)
-#  References: (anything you checked to solve this)
+#        Name: Loke Yu
+#       Peers: None
+#  References: None
 # ------------------------------------------------------
 
 
