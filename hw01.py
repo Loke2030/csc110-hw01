@@ -50,6 +50,7 @@ def main():
     a = 1.5
     b = 7
     c = -1
+    # Calculate result1 using the given formula
     result1 = (3 * x - 9 * y) / (2 * a * (b - c))
     print("Part 1: x =", x)
     print("Part 1: y =", y)
@@ -65,6 +66,7 @@ def main():
     # Your code for part 2 under this line and before the print statements
     x = 5
     y = -3
+    # Calculate powers of x and y
     result2 = (x ** 2) * (y ** 4)
     print("Part 2: x =", x)
     print("Part 2: y =", y)
@@ -78,6 +80,7 @@ def main():
     # Your code for part 3 under this line and before the print statements
     a = 100
     b = 13
+    # Use integer division to get the quotient
     result3 = a // b
     print("Part 3: a =", a)
     print("Part 3: b =", b)
@@ -89,6 +92,7 @@ def main():
     # =============================================
     # Your code for part 4 under this line and before the print statements
     result4 = a % b
+    # Use modulo to get the remainder
     print("Part 4: result =", result4)
     # End of Part 4 ----------------------
 
